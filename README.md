@@ -1,5 +1,5 @@
 ### Hello World 👋
-<p align="center">  
+<p>  
   <img src="https://img.shields.io/badge/whereru511@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
   <img src="https://likelion-badge.herokuapp.com/api/likelion_shield_badge"/>
 </p>
